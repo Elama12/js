@@ -11,3 +11,11 @@ e=a*b
 console.log(e)
 n=a-b
 console.log(n)
+var out = 6
+var out2 = 4
+if(out == 6 && out2 == 4){
+    console.log("a")
+}
+else{
+    console.log('b')
+}

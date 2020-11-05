@@ -19,3 +19,8 @@ if(out == 6 && out2 == 4){
 else{
     console.log('b')
 }
+let number = -2
+if(number>0){
+console.log("true")
+}else
+console.log("false")

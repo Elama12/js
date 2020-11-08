@@ -27,3 +27,47 @@ function greet()
     }
 
     // console.log(a +"  "+b)
+ // console.log(a)
+// greet()
+
+// let a = 5;
+// console.log(a)
+
+// {
+//     let a = 3;
+//     console.log(a)
+// }
+
+// console.log(a)
+
+
+// console.log(fun)
+var fun =7
+
+
+
+let get = `kjfdg ${fun} kjudfhg skjefhgf esdahgfob `
+
+
+
+// console.log(get)
+
+// console.log(typeof(get))
+
+let Null ="fdjkhg"
+let num = null
+// console.log(num)
+
+
+let obj={
+    name:"varun",
+    age:100,
+    id:true
+}
+
+obj.name="thala"
+console.log(obj)
+
+
+
+

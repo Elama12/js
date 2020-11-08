@@ -1,0 +1,29 @@
+let  youNma=5;
+// console.log()
+// a=3
+
+// const h=5;
+// console.log(h)
+
+{
+    let h=7
+    var i=2
+}
+
+
+
+// let h=2
+// var i=5
+// console.log(h)
+
+function greet()
+{
+    var a = "hello"
+
+    if(a == "hello"){
+
+        let  b = 'varun'
+        // console.log(a +"  "+b)
+    }
+
+    // console.log(a +"  "+b)

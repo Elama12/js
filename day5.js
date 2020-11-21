@@ -9,7 +9,7 @@
 
 // program 2
 
-//  let number=2
+//  let number=1
 //  if(number>=0){
 //      if(number==0){
 //          console.log("hero");
@@ -22,11 +22,7 @@
  
 
 // loop
-// let number =2
-// for(let  i=1;i<=2;i++){
-//     console.log("maran podhu")
+// let number 
+// for(i=5,i<=50,j=1,i+=5,j++){
+    // console.log(j+"*5"+i)
 // }
-let n=4
-for(let i=1;i<=n;i++){
-    console.log(i)
-}
